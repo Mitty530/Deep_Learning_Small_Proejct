@@ -1,1 +1,1 @@
-# Deep_Learning_Small_Proejct
+# Deep_Learning_Small_Proejct for differents Algorithms
